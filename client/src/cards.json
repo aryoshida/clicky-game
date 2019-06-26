@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "Pineapple",
+      "image": "./images/pineapple",
+      "count": 0
+    },
+    {
+      "id": 2,
+      "name": "Bannana",
+      "image": "./images/bannanas",
+      "count": 0
+    },
+    {
+      "id": 3,
+      "name": "Watermelon",
+      "image": "./images/watermelon",
+      "count": 0
+    },
+    {
+      "id": 4,
+      "name": "Peach",
+      "image": "./images/peach",
+      "count": 0
+    },
+    {
+      "id": 5,
+      "name": "Orange",
+      "image": "./images/orange",
+      "count": 0
+    },
+    {
+      "id": 6,
+      "name": "Apple",
+      "image": "./images/apple",
+      "count": 0
+    },
+    {
+      "id": 7,
+      "name": "Grape",
+      "image": "./images/grape",
+      "count": 0
+    },
+    {
+      "id": 8,
+      "name": "Pear",
+      "image": "./images/pear",
+      "count": 0
+    },
+    {
+      "id": 9,
+      "name": "Kiwi",
+      "image": "./images/kiwi",
+      "count": 0
+    },
+    {
+      "id": 10,
+      "name": "Dragon Fruit",
+      "image": "./dragonFruit",
+      "count": 0
+    },
+    {
+      "id": 11,
+      "name": "Blueberry",
+      "image": "./images/bluebery",
+      "count": 0
+    },
+    {
+      "id": 12,
+      "name": "Coconut",
+      "image": "./images/coconut",
+      "count": 0
+    }
+  ]
