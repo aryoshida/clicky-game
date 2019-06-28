@@ -1,26 +1,27 @@
 .card{
     background: whitesmoke;
     border: 2px;
-    height: 250px;
-    margin: 1px;
+    height: 210px;
+    margin: 10px;
     position: relative;
     width: 300px;
     box-shadow: 0 3px 6px #999, 0 3px 6px #999;
-    text-align: center;
 }
 
 .card > .img-container{
     height: 100%;
     overflow: hidden;
-    text-align: center;
     background: aqua;
+    padding: 15px;
+    align-content: center;
+    position: absolute;
 }
 
 .card > .img-container > img{
-    width: 60%;
+    width: 90%;
 }
 
 .card > .content{
-    padding: 1px;
-    font-size: 20px;
+    padding: 10px;
+    font-size: 15px;
 }
